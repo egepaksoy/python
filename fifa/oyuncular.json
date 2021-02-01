@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Lionel",
+		"surname": "Messi",
+		"age": 36,
+		"country": "Argentina",
+		"foto": "./fotos/messi.png",
+		"overall": 95
+	},
+	{
+		"name": "Cristiano",
+		"surname": "Ronaldo",
+		"age": 36,
+		"country": "Portugal",
+		"foto": "./fotos/ronaldo.jpg",
+		"overall": 95
+	},
+	{
+		"name": "Hakan",
+		"surname": "Çalhanoğlu",
+		"age": 25,
+		"country": "Turkey",
+		"foto": "./fotos/hakan.jpg",
+		"overall": 78
+	},
+	{
+		"name": "Mesut",
+		"surname": "Özil",
+		"age": 32,
+		"country": "Germany/Turkey",
+		"foto": "./fotos/mesut.jpg",
+		"overall": 91
+	},
+	{
+		"name": "Neymar da Silva Junior",
+		"surname": "Santos",
+		"age": 28,
+		"country": "Brasil",
+		"foto": "./fotos/neymar.jpg",
+		"overall": 93
+	},
+	{
+		"name": "Edison",
+		"surname": "Cavani",
+		"age": 33,
+		"country": "Uruguay",
+		"foto": "./fotos/cavani.jpg",
+		"overall": 90
+	},
+	{
+		"name": "Muhammed",
+		"surname": "Salah",
+		"age": 28,
+		"country": "Egypt",
+		"foto": "./fotos/salah.jpg",
+		"overall": 92
+	},
+	{
+		"name": "Kylian",
+		"surname": "Mbappe",
+		"age": 22,
+		"country": "France",
+		"foto": "./fotos/mbappe.jpg",
+		"overall": 92
+	}
+]
